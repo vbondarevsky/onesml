@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ДеревоРешений" id="08c83e90-73a2-4344-b4f2-b0f4e06dc0e5" configVersion="76e2167a1a9af24f9a573c7d552d7ae500000000"/>
+		<Metadata name="CommonModule.ДеревоРешений.Module" id="08c83e90-73a2-4344-b4f2-b0f4e06dc0e5.0" configVersion="44b490215fd7df4c9ffd62f0bfcc9ebd00000000"/>
+		<Metadata name="Configuration.АнализДанных" id="f6a8eaae-5621-4bc8-97eb-318253e829d3" configVersion="1c417c3dc2990143bb996c1af39a7e0e00000000"/>
+		<Metadata name="Configuration.АнализДанных.HomePageWorkArea" id="74da86b7-0f2b-4e7f-b6e3-632b9ffb6247.8" configVersion="c765357058c885469ce0f1f8c9bf149300000000"/>
+		<Metadata name="DataProcessor.ПримерИспользованияДереваРешений" id="7551f93c-86bd-4122-821b-740d8ab7d98b" configVersion="5cfd76195bfb9b4d8066253673358e5800000000"/>
+		<Metadata name="DataProcessor.ПримерИспользованияДереваРешений.Form.Форма" id="d05edc89-085c-4211-82b8-7c9ea92d4566" configVersion="8eef8e29d8cce240a41afe3433b5d40800000000"/>
+		<Metadata name="DataProcessor.ПримерИспользованияДереваРешений.Form.Форма.Form" id="d05edc89-085c-4211-82b8-7c9ea92d4566.0" configVersion="de4afb1a71eac940ac49c13ebbdb950e00000000"/>
+		<Metadata name="DataProcessor.ПримерИспользованияДереваРешений.Template.train_set" id="d2398fc6-5678-4499-8482-f84e239e1f8e" configVersion="458333a916147048a6c49d4277525fac00000000"/>
+		<Metadata name="DataProcessor.ПримерИспользованияДереваРешений.Template.train_set.Template" id="d2398fc6-5678-4499-8482-f84e239e1f8e.0" configVersion="c82d01189d8f1e42bc2fdb936b1cd9ca00000000"/>
+		<Metadata name="Enum.Выживание" id="2f744732-ab6b-4938-bdaa-82e489328433" configVersion="4eeefcc027734a40b3e9ddce75fa065300000000">
+			<Metadata name="Enum.Выживание.EnumValue.НеВыжил" id="6d2a0c1c-f27a-4b52-8342-a3d2e3dca085"/>
+			<Metadata name="Enum.Выживание.EnumValue.Выжил" id="dbe10b55-f109-48c6-8452-733d8c7dad23"/>
+		</Metadata>
+		<Metadata name="Enum.Класс" id="4dcb6f84-7851-434f-a033-7a1fdc1af4a3" configVersion="fe69d847938e9241927c3e3a98575a8b00000000">
+			<Metadata name="Enum.Класс.EnumValue.Второй" id="74cf57d2-038b-4da7-9c5e-02bacd488879"/>
+			<Metadata name="Enum.Класс.EnumValue.Первый" id="92981288-742c-4e2d-92bd-ee77eb2788c8"/>
+			<Metadata name="Enum.Класс.EnumValue.Третий" id="bc66b2b4-7603-41e5-88ff-bf01d9e52be2"/>
+		</Metadata>
+		<Metadata name="Enum.Пол" id="322e3fd1-bffe-41e4-9b45-6612d1bad89f" configVersion="712a46ba6096c64cba3ab3a9f17f2b9f00000000">
+			<Metadata name="Enum.Пол.EnumValue.Ж" id="b0bc1f1f-e2f5-4540-87ba-1b93c21f5081"/>
+			<Metadata name="Enum.Пол.EnumValue.М" id="d65c9617-4c0f-4c7e-94a9-af7dd6ef8b42"/>
+		</Metadata>
+		<Metadata name="Enum.ПортПосадки" id="3946c094-3237-4273-a519-1d920bfd5f9f" configVersion="bac320c7c625cd4882b47bdf4b0df33e00000000">
+			<Metadata name="Enum.ПортПосадки.EnumValue.Southampton" id="086f24f5-25dd-4d39-ad66-97c852357b6a"/>
+			<Metadata name="Enum.ПортПосадки.EnumValue.Cherbourg" id="190091b4-7a2a-49f4-adf4-bb44f1435835"/>
+			<Metadata name="Enum.ПортПосадки.EnumValue.Queenstown" id="fb675c7b-d6fb-4626-b260-954f834096b4"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Титаник" id="2cb2bf16-b420-4dc7-b7f6-26916ddc1eb7" configVersion="f95c7e7d94b5b24ea51cabf3172cedaf00000000">
+			<Metadata name="InformationRegister.Титаник.Attribute.Класс" id="1f2731a6-c936-4236-81d5-4e8000035721"/>
+			<Metadata name="InformationRegister.Титаник.Resource.Выживание" id="24690ca3-4f8e-4b1f-a668-5aa41d3f797b"/>
+			<Metadata name="InformationRegister.Титаник.Dimension.Идентификатор" id="3d34ce30-d566-43a1-b197-0ad58e749a5b"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.КоличествоРодственниковПервогоПорядка" id="4dd6bf4a-830c-4595-b407-5b50af4e98dd"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.Каюта" id="53e70e1b-4707-46e0-b426-76dc8039fcf0"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.Возраст" id="57b338fd-81d1-44e3-af81-0c8a80afd75e"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.ПортПосадки" id="5cfe09cc-1497-4ecd-9d67-d031d587a906"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.НомерБилета" id="74a7d55c-abb1-4e8d-8456-f76e297c47fc"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.Тариф" id="90306b26-0c9f-4da9-8577-1ac8827e1c93"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.Имя" id="9ec1ff4d-1d15-46e4-85aa-09dd26dee48d"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.Пол" id="aaf21cb0-2dd3-4d06-8f2c-8927da392176"/>
+			<Metadata name="InformationRegister.Титаник.Attribute.КоличествоРодственниковВторогоПорядка" id="fcf1cc4c-07e4-4127-be9a-6013db3c3620"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Титаник.Form.ФормаСписка" id="eafd55f3-9ce9-43b5-a974-cb2e75e2f8d6" configVersion="f2c27f8cc5495448b78d1ca753bb383e00000000"/>
+		<Metadata name="InformationRegister.Титаник.Form.ФормаСписка.Form" id="eafd55f3-9ce9-43b5-a974-cb2e75e2f8d6.0" configVersion="b89b7b4ab83a0641b5f5114077e3fd4600000000"/>
+		<Metadata name="InformationRegister.Титаник.Template.ТестовыйНабор" id="8e46da84-0575-4e96-9e3e-cefbd8afb593" configVersion="9ddcb3a4418dd341b938c5da7db5ccd100000000"/>
+		<Metadata name="InformationRegister.Титаник.Template.ТестовыйНабор.Template" id="8e46da84-0575-4e96-9e3e-cefbd8afb593.0" configVersion="aefe2976320d0741af3758e5981c93f800000000"/>
+		<Metadata name="InformationRegister.Титаник.Template.ТренировочныйНабор" id="6b9b5065-650c-4e9f-b864-1bc86da63747" configVersion="1455b40ceb0d684b94cf8ec5b3379b9100000000"/>
+		<Metadata name="InformationRegister.Титаник.Template.ТренировочныйНабор.Template" id="6b9b5065-650c-4e9f-b864-1bc86da63747.0" configVersion="ad54a83b39451140a9bdb02b5934546c00000000"/>
+		<Metadata name="Language.Русский" id="c151dbfe-b7be-4c33-82a6-02c668da3aee" configVersion="3febe1d1004664468d61a802eb6654e000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
